@@ -1,8 +1,4 @@
 # CS303-Assignment-2
-
-Here's a README file that describes the functionalities of both the SingleLinkedList and IntStack classes, suitable for developers or users who want to understand and utilize the provided code.
-
-Data Structures Implementation
 This repository contains C++ implementations of two basic data structures: a single linked list and a stack. Below is a brief overview of each class and its functionalities.
 
 SingleLinkedList
