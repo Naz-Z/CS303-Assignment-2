@@ -34,3 +34,7 @@ top(): Returns the top element of the stack.
 average(): Calculates the average of all elements in the stack.
 Usage
 To use these classes, include the corresponding header files in your C++ project and ensure your compiler supports C++11 (or later) due to the usage of nullptr and other features.
+
+
+
+
